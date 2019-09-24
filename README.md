@@ -68,7 +68,7 @@ A 16-week intensive development bootcamp, focusing on:
 - ORMs (Active Record, DataMapper)
 - Git, CI/CD (Travis CI, CircleCI), Heroku
 
-#### ISTQB Certified Tester Fundation Level (July 2016)
+#### ISTQB Certified Tester Foundation Level (July 2016)
 
 #### University of Debrecen, Hungary (September 2003 to February 2009)
 
